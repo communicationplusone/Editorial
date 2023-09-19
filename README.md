@@ -13,14 +13,14 @@ Please submit short proposals of no more than 500 words by December 1, 2023 to c
 Upon invitation, full-text submissions will be due April 15, 2024, with expected publication in Fall 2024.
 
 
-About the Journal
+## About the Journal
 The aim of communication +1 is to promote new approaches and open new horizons in the study of communication from an interdisciplinary perspective. We are particularly committed to promoting research that seeks to constitute new areas of inquiry and to explore new frontiers of theoretical activities linking the study of communication to both established and emerging research programs in the humanities, social sciences, and arts. Other than the commitment to rigorous scholarship, communication +1 sets no specific agenda. Its primary objective is to create a space for thoughtful experiments and for communicating these experiments.
 
-Editors
+### Editors
 Briankle G. Chang, University of Massachusetts Amherst
 Zachary J. McDowell, University of Illinois at Chicago
 
-Advisory Board
+### Advisory Board
 Kuan-Hsing Chen, National Chiao Tung University, Taiwan
 Sean Johnson Andrews, Columbia College Chicago
 Nathalie Casemajor, University of Québec Outaouais
