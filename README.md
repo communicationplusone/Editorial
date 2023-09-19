@@ -14,7 +14,7 @@ Upon invitation, full-text submissions will be due April 15, 2024, with expected
 
 
 ## About the Journal
-The aim of communication +1 is to promote new approaches and open new horizons in the study of communication from an interdisciplinary perspective. We are particularly committed to promoting research that seeks to constitute new areas of inquiry and to explore new frontiers of theoretical activities linking the study of communication to both established and emerging research programs in the humanities, social sciences, and arts. Other than the commitment to rigorous scholarship, communication +1 sets no specific agenda. Its primary objective is to create a space for thoughtful experiments and for communicating these experiments. More at https://scholarworks.umass.edu/cpo/.
+The aim of communication +1 is to promote new approaches and open new horizons in the study of communication from an interdisciplinary perspective. We are particularly committed to promoting research that seeks to constitute new areas of inquiry and to explore new frontiers of theoretical activities linking the study of communication to both established and emerging research programs in the humanities, social sciences, and arts. Other than the commitment to rigorous scholarship, communication +1 sets no specific agenda. Its primary objective is to create a space for thoughtful experiments and for communicating these experiments. The journal's website is https://scholarworks.umass.edu/cpo/.
 
 ### Editors
 Briankle G. Chang, University of Massachusetts Amherst
