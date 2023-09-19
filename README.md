@@ -1,4 +1,4 @@
-# MediaAesthetics
+# Media Aesthetics
 
 communication +1 is seeking proposals for Volume 10, "Media Aesthetics"<br />
 Co-edited by Hank Gerba and Zachary McDowell
