@@ -1,6 +1,6 @@
 # MediaAesthetics
 
-communication +1 is seeking proposals for Volume 10, "Media Aesthetics"__
+communication +1 is seeking proposals for Volume 10, "Media Aesthetics"<br />
 Co-edited by Hank Gerba and Zachary McDowell
 
 In our age of ubiquitous computation, “sense and the senses turn to eyewash.” Or so proclaimed Friedrich Kittler, fearing that the operationalization of boolean logic, materialized and ever-miniaturized in the transistor, would sever the connection between media and the human senses. Digital communication between machines would pass seamlessly below the threshold of perception, which would only ever be rendered in the strictest computational sense. Must theories of media and communication abdicate the body as a locus of theoretical inquiry?
@@ -9,7 +9,7 @@ Despite the micro-temporality of computational media, this collection aims to re
 
 This collection seeks engagement with and between the many existing species of media studies and communications. By focusing on the aesthetic, we also hope to expand the study of media and communication beyond their traditional institutional and methodological boundaries. We strongly encourage intersectional and interdisciplinary engagements with the aesthetic as it functions theoretically, methodologically, spatially, institutionally, historically, and in relation to the study of media and communication.
 
-Please submit short proposals of no more than 500 words by December 1, 2023 to communicationplusone@gmail.com.__
+Please submit short proposals of no more than 500 words by December 1, 2023 to communicationplusone@gmail.com.<br />
 Upon invitation, full-text submissions will be due April 15, 2024, with expected publication in Fall 2024.
 
 
@@ -21,18 +21,18 @@ Briankle G. Chang, University of Massachusetts Amherst
 Zachary J. McDowell, University of Illinois at Chicago
 
 ### Advisory Board
-Kuan-Hsing Chen, National Chiao Tung University, Taiwan
-Sean Johnson Andrews, Columbia College Chicago
-Nathalie Casemajor, University of Québec Outaouais
-Bernard Geoghegan, King’s College London, United Kingdom
-Lawrence Grossberg, University of North Carolina Chapel Hill
-David Gunkel, Northern Illinois University
-Peter Krapp, University of California Irvine
-Catherine Malabou, Kingston University, United Kingdom
-Jussi Parikka, University of Southampton, United Kingdom
-John Durham Peters, University of Iowa
-Gil Rodman, University of Minnesota
-Florian Sprenger, Goethe-University Frankfurt, Germany
+Kuan-Hsing Chen, National Chiao Tung University, Taiwan<br />
+Sean Johnson Andrews, Columbia College Chicago<br />
+Nathalie Casemajor, University of Québec Outaouais<br />
+Bernard Geoghegan, King’s College London, United Kingdom<br />
+Lawrence Grossberg, University of North Carolina Chapel Hill<br />
+David Gunkel, Northern Illinois University<br />
+Peter Krapp, University of California Irvine<br />
+Catherine Malabou, Kingston University, United Kingdom<br />
+Jussi Parikka, University of Southampton, United Kingdom<br />
+John Durham Peters, University of Iowa<br />
+Gil Rodman, University of Minnesota<br />
+Florian Sprenger, Goethe-University Frankfurt, Germany<br />
 Johnathan Sterne, McGill University
 Ted Striphas, University of Colorado, Boulder
 Greg Wise, Arizona State University
