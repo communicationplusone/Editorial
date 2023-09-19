@@ -1,7 +1,7 @@
 # Media Aesthetics
 
-communication +1 is seeking proposals for Volume 10, "Media Aesthetics"<br />
-Co-edited by Hank Gerba and Zachary McDowell
+communication +1 is seeking proposals for Volume 10, "Media Aesthetics."<br />
+Co-edited by Hank Gerba and Zachary McDowell.
 
 In our age of ubiquitous computation, “sense and the senses turn to eyewash.” Or so proclaimed Friedrich Kittler, fearing that the operationalization of boolean logic, materialized and ever-miniaturized in the transistor, would sever the connection between media and the human senses. Digital communication between machines would pass seamlessly below the threshold of perception, which would only ever be rendered in the strictest computational sense. Must theories of media and communication abdicate the body as a locus of theoretical inquiry?
 
